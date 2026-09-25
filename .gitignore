@@ -12,7 +12,7 @@
 *.toc
 *.synctex.gz
 *.txt
-python_patent_rewrite/outputs/
+python_patent_rewrite/
 release_assets/
 
 # Python and local environments
