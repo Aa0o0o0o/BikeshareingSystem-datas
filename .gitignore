@@ -1,0 +1,37 @@
+# Full data and generated experiment results
+*.mat
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+*.tex
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.txt
+python_patent_rewrite/outputs/
+release_assets/
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Editors and temporary files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.temp
+*.swp

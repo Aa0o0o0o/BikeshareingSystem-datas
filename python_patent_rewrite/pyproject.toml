@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bike-rebalance-patent-rewrite"
+version = "0.1.0"
+description = "模块化、可复现、可解释的共享单车鲁棒再平衡 Python 工程"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+solver = ["cvxpy>=1.4"]
+dev = ["pytest>=8"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
