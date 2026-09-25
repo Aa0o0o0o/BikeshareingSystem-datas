@@ -5,9 +5,6 @@ Research code and data for bike-sharing repositioning under demand uncertainty.
 
 共享单车需求不确定性下的两阶段分布鲁棒再平衡：研究代码与实验数据。
 
-English
-Overview
-
 This repository accompanies the manuscript “Two-Stage Distributionally Robust Repositioning with Routing Decisions in Dockless Bike-Sharing Systems.” It brings together the code and experimental data used to investigate the joint optimization of vehicle routes and bicycle inventory reallocation under uncertain demand.
 
 The study considers static repositioning operations conducted before the next service period. Using demand means and variances, the proposed distributionally robust formulation minimizes transportation costs and worst-case expected shortage costs over a set of admissible demand distributions.
