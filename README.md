@@ -8,7 +8,7 @@ MATLAB research code for joint vehicle-routing and bike-inventory decisions unde
 
 ## Data / 数据
 
-Download the single [v0.1.0 data ZIP](https://github.com/Aa0o0o0o/BikeshareingSystem-datas/releases/download/v0.1.0/bikeshare-6.18-input-data-v0.1.0.zip) and extract it into the repository root, beside `main_demo.m`. / 下载单个 [v0.1.0 数据附件](https://github.com/Aa0o0o0o/BikeshareingSystem-datas/releases/download/v0.1.0/bikeshare-6.18-input-data-v0.1.0.zip)，解压到 `main_demo.m` 所在的仓库根目录。
+Download the single [v0.1.0 data ZIP](https://github.com/Aa0o0o0o/BikesharingSystem-datas/releases/download/v0.1.0/bikeshare-6.18-input-data-v0.1.0.zip) and extract it into the repository root, beside `main_demo.m`. / 下载单个 [v0.1.0 数据附件](https://github.com/Aa0o0o0o/BikesharingSystem-datas/releases/download/v0.1.0/bikeshare-6.18-input-data-v0.1.0.zip)，解压到 `main_demo.m` 所在的仓库根目录。
 
 The archive preserves 10 input `.mat` files: `May.mat`–`Oct.mat`, `stations.mat`, `Cluster_Results.mat`, `Simulation_Fixed_Data.mat`, and `Random_Clusters.mat`. SHA-256: `B190F48E9E341E72CE7FB43453F6AEEA30E9520569551C80B10D5DC154EF5839`. / 附件保留上述 10 个输入文件的原始内容；生成的实验结果不在附件中。
 
